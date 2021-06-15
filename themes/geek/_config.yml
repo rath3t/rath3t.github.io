@@ -1,6 +1,6 @@
 logo_title: Alex's blog
 
-style: white
+style: black
 
 favicon: /favicon.ico
 
@@ -8,12 +8,12 @@ menu:
   about: /about
   Github: https://github.com/rath3t
 
-# # 做了域名限制，请改成自己的 KEY
-# # 若关闭valine 设置enable为false
-# valine:
-#   enable: true
-#   appId: CmCti21ooOOIzFOhEyFkFvR0-gzGzoHsz
-#   appKey: FqiyUqbg7McKN2eG0MCewupf
+# 做了域名限制，请改成自己的 KEY
+# 若关闭valine 设置enable为false
+valine:
+  enable: false
+  appId: CmCti21ooOOIzFOhEyFkFvR0-gzGzoHsz
+  appKey: FqiyUqbg7McKN2eG0MCewupf
 
 highlight:
   enable: false
